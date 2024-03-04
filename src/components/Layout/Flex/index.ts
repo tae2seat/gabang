@@ -1,5 +1,5 @@
 /* eslint-disable prettier/prettier */
-import styled from 'styled-components'
+import * as styled  from 'styled-components'
 import Box, { BoxProps } from '@/components/Layout/Box'
 import type {
   Responsive,
